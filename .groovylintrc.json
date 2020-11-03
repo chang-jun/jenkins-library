@@ -1,0 +1,18 @@
+{
+    "extends": "recommended",
+    "rules": {
+        "MethodSize": {
+            "enabled": true,
+            "maxLines": 150
+        },
+        "NestedBlockDepth": {
+            "maxNestedBlockDepth": 8
+        },
+        "ParameterCount": {
+            "maxParameters": 8
+        },
+        "formatting.Indentation": {
+            "spacesPerIndentLevel": 4
+        }
+    }
+}
