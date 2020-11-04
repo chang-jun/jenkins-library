@@ -15,6 +15,8 @@ The following plugin need to be installed.
 7. Gitlab Authentication plugin
 8. Generic Webhook Trigger
 9. SonarQube Scanner
+10. Git Parameter
+11. Image Tag Parameter
 
 ## Usage
 
